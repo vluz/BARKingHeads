@@ -39,8 +39,8 @@ venv\Scripts\deactivate
 
 Example output:
 <br>
-https://github.com/vluz/BARKingHeads/blob/main/20230629-164041.wav
+https://github.com/vluz/BARKingHeads/raw/main/20230629-164041.wav
 
-https://github.com/vluz/BARKingHeads/blob/main/20230629-170843.wav
+https://github.com/vluz/BARKingHeads/raw/main/20230629-170843.wav
 
 <hr>
